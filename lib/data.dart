@@ -1,0 +1,48 @@
+class data{
+
+  static List que=[
+    "myassets/image/p1.png",
+    "myassets/image/p2.png",
+    "myassets/image/p3.png",
+    "myassets/image/p4.png",
+    "myassets/image/p5.png",
+    "myassets/image/p6.png",
+    "myassets/image/p7.png",
+    "myassets/image/p8.png",
+    "myassets/image/p9.png",
+    "myassets/image/p10.png",
+    "myassets/image/p1.png",
+    "myassets/image/p2.png",
+    "myassets/image/p3.png",
+    "myassets/image/p4.png",
+    "myassets/image/p5.png",
+    "myassets/image/p6.png",
+    "myassets/image/p7.png",
+    "myassets/image/p8.png",
+    "myassets/image/p9.png",
+    "myassets/image/p10.png",
+    "myassets/image/p1.png",
+    "myassets/image/p2.png",
+    "myassets/image/p3.png",
+    "myassets/image/p4.png",
+    "myassets/image/p5.png",
+    "myassets/image/p6.png",
+    "myassets/image/p7.png",
+    "myassets/image/p8.png",
+    "myassets/image/p9.png",
+    "myassets/image/p10.png",
+    "myassets/image/p1.png",
+    "myassets/image/p2.png",
+    "myassets/image/p3.png",
+    "myassets/image/p4.png",
+    "myassets/image/p5.png",
+    "myassets/image/p6.png",
+    "myassets/image/p7.png",
+    "myassets/image/p8.png",
+    "myassets/image/p9.png",
+    "myassets/image/p10.png",
+
+
+  ];
+  static List ans=[10,20,30,40,50,60,70,80,90,100,10,20,30,40,50,60,70,80,90,100,10,20,30,40,50,60,70,80,90,100,10,20,30,40,50,60,70,80,90,100,];
+}
